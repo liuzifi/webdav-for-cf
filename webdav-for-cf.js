@@ -243,3 +243,4 @@ function generatePropfindXml(objects, origin) {
   ${responses}
 </D:multistatus>`;
 }
+
